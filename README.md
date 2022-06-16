@@ -1,5 +1,5 @@
 <h1 align="center">Merhaba 👋 Ben Emirhan</h1>
-<h3 align="center">18 Yasindayim. Kendimi .Net Alanında Geliştiriyorum</h3>
+<h3 align="center">18 Yasindayim. Kendimi .Net Alanında Geliştirmeye Calisiyorum</h3>
 
 - 🔭 Araba Kiralama Backend= [Car Rental](https://github.com/emirhangvnc/ReCapProject)
 
