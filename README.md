@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on [Car Rental](https://github.com/emirhangvnc/ReCapProject)
 
 - 🌱 I’m currently learning **Angular**
-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emirhangvnc&layout=compact)](https://github.com/emirhangvnc/github-readme-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
