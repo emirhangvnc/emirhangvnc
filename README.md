@@ -1,5 +1,5 @@
-<h1 align="center">Merhaba 👋,Ben Emirhan</h1>
-<h3 align="center">18 Yasindayim,.Net ile ilgileniyorum</h3>
+<h1 align="center">Merhaba 👋 Ben Emirhan</h1>
+<h3 align="center">18 Yasindayim. Kendimi .Net Alanında Geliştiriyorum</h3>
 
 - 🔭 Bu Proje Ile Ilgilenmekteyim= [Car Rental](https://github.com/emirhangvnc/ReCapProject)
 
