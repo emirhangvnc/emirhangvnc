@@ -1,9 +1,9 @@
 <h1 align="center">Merhaba 👋 Ben Emirhan</h1>
 <h3 align="center">18 Yasindayim. Kendimi .Net Alanında Geliştiriyorum</h3>
 
-- 🔭 Bu Proje Ile Ilgilenmekteyim= [Car Rental](https://github.com/emirhangvnc/ReCapProject)
+- 🔭 Araba Kiralama Backend= [Car Rental](https://github.com/emirhangvnc/ReCapProject)
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 Ogrenmeye Calisiyorum **Angular**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emirhangvnc&layout=compact)](https://github.com/emirhangvnc/github-readme-stats)
 
