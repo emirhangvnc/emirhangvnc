@@ -1,7 +1,7 @@
 <h1 align="center">Merhaba 👋,Ben Emirhan</h1>
 <h3 align="center">18 Yasindayim,.Net ile ilgileniyorum</h3>
 
-- 🔭 I’m currently working on [Car Rental](https://github.com/emirhangvnc/ReCapProject)
+- 🔭 Bu Proje Ile Ilgilenmekteyim= [Car Rental](https://github.com/emirhangvnc/ReCapProject)
 
 - 🌱 I’m currently learning **Angular**
 - [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emirhangvnc&layout=compact)](https://github.com/emirhangvnc/github-readme-stats)
