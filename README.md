@@ -4,8 +4,8 @@
 - 🔭 Bu Proje Ile Ilgilenmekteyim= [Car Rental](https://github.com/emirhangvnc/ReCapProject)
 
 - 🌱 I’m currently learning **Angular**
-- <br/>
--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emirhangvnc&layout=compact)](https://github.com/emirhangvnc/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emirhangvnc&layout=compact)](https://github.com/emirhangvnc/github-readme-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
