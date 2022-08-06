@@ -1,9 +1,9 @@
 <h1 align="center">Merhaba 👋</h1>
 <h3 align="center">18 Yasindayim. Kendimi .Net Alanında Yetiştirmeye Calisiyorum</h3>
 
-- 🔭 Rent A Car= [Car Rental](https://github.com/emirhangvnc/ReCapProject)
+- 🔭 Rent A Car= [Car_Rental](https://github.com/emirhangvnc/ReCapProject)
 
-- 🔭 Hotel Reservation= [Car Rental](https://github.com/emirhangvnc/HotelReservationProject)
+- 🔭 Hotel Reservation= [Hotel_Reservation](https://github.com/emirhangvnc/HotelReservationProject)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emirhangvnc&layout=compact)](https://github.com/emirhangvnc/github-readme-stats)
 
